@@ -5,7 +5,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianoBarros318&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=FabianoBarros318&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=anetto771show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 
  ## Tecnologias que estou aprendendo  no meu dia
 <div style="display: inline_block">
